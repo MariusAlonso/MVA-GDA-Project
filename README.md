@@ -10,7 +10,7 @@ This project was based on the following articles:
 
 ## Report
 
-The report is available in the repository [here](GDA-Review.pdf)
+The report is available in the repository [here](GDA-Review.pdf).
 
 ## Code
 
