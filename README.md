@@ -1,4 +1,4 @@
-# 📐 deep-classifiers-geometry
+# MVA-GDA-Project
 
 This project examines the sensitivity of deep learning networks to adversarial attacks and the need for robust classifiers in safety-critical systems under the prism of decision boundary geometry.
 
