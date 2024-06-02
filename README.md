@@ -1,6 +1,6 @@
 # 📐 deep-classifiers-geometry
 
-This project examines the sensitivity of deep learning networks to minor input changes and the need for robust classifiers in safety-critical systems under the prism of decision boundary geometry.
+This project examines the sensitivity of deep learning networks to adversarial attacks and the need for robust classifiers in safety-critical systems under the prism of decision boundary geometry.
 
 It was based on the following articles:
 
