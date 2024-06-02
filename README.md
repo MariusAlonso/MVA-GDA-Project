@@ -1,6 +1,8 @@
-# MVA-GDA-Project
+# 📐 deep-classifiers-geometry
 
-This project was based on the following articles:
+This project examines the sensitivity of deep learning networks to minor input changes and the need for robust classifiers in safety-critical systems under the prism of decision boundary geometry.
+
+It was based on the following articles:
 
 - Moosavi-Dezfooli, S. M., Fawzi, A., Uesato, J., & Frossard, P. (2019). Robustness via curvature regularization, and vice versa. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 9078-9086).
 
@@ -10,8 +12,8 @@ This project was based on the following articles:
 
 ## Report
 
-The report is available in the repository [here](GDA-Review.pdf).
+The report is available [here](report.pdf).
 
 ## Code
 
-The code is available in the repository [here](GDA-Code.ipynb), as a jupyter notebook written with PyTorch.
+The code is available [here](code.ipynb), as a jupyter notebook written with PyTorch.
